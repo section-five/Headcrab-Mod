@@ -13,7 +13,7 @@ The Latest Version of [Minecraft Forge 1.16.2](https://www.minecraftforge.net)
 ### Installing
 **NOT OUT YET**
 
-Download the 1.16.2 version of the Mod from the source [Here](https://www.curseforge.com/minecraft/mc-mods/)
+Download the 1.16.1 version of the Mod from the source [Here](https://www.curseforge.com/minecraft/mc-mods/)
 
 Move the mod into the mod folder in your .minecraft folder
 
@@ -32,7 +32,7 @@ None yet, be the first
 
 ## License
 
-This project is licensed under the GNU Public Licence 3.0  License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache License v2 - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Contact
 You can contact us at the following below
