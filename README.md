@@ -1,6 +1,8 @@
-# Headcrab Mod ![](https://img.shields.io/badge/Minecraft-1.16.1-blue.svg) ![](https://img.shields.io/badge/Latest%20Version-1.0.0-blue.svg) ![](https://img.shields.io/badge/Mod%20Status-Incomplete-red.svg) ![Discord](https://img.shields.io/discord/538796875311218721) 
+# Headcrab Mod ![](https://img.shields.io/badge/Minecraft-1.16.1-blue.svg) ![](https://img.shields.io/badge/Latest%20Version-1.0.0-blue.svg) ![](https://img.shields.io/badge/Mod%20Status-Abandoned-black.svg) ![Discord](https://img.shields.io/discord/538796875311218721) 
 
 Adds Star Trek to Minecraft.
+
+## This project is dead.
 
 ## Getting Started
 
